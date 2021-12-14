@@ -21,7 +21,7 @@ public class TestingMethods {
     }
 
     @Test
-    void numberUtilsTest() {
+    void multiplyOddNumberTest() {
         ArrayList<Integer> actualFinalList = new ArrayList<Integer>(List.of(2, 6, 10));
         ArrayList<Integer> arrayList = new ArrayList<>();
         arrayList.add(1);
